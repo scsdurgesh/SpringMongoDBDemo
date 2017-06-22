@@ -1,0 +1,4 @@
+docker images
+docker ps
+docker build -t projectName dockerFolder/
+docker run -p 8080:8080 -t projectName
